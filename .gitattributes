@@ -32,6 +32,19 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# PureBasic source file
+*.pb linguist-detectable=true
+*.pb linguist-documentation=false
+*.pb linguist-language=PureBasic
+*.pbi linguist-detectable=true
+*.pbi linguist-documentation=false
+*.pbi linguist-language=PureBasic
+*.pbf linguist-detectable=true
+*.pbf linguist-documentation=false
+*.pbf linguist-language=PureBasic
+*.pbp linguist-detectable=true
+*.pbp linguist-documentation=false
+*.pbp linguist-language=PureBasic
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +177,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, November 4th at 4:32 pm PST)
+# Line count (including blank lines and compiler line): 184
 # End of script
